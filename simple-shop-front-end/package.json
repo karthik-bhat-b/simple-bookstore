@@ -1,0 +1,29 @@
+{
+  "name": "simple-shop-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "antd": "^5.15.4",
+    "axios": "^1.6.8",
+    "formik": "^2.4.5",
+    "next": "14.1.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-input-mask": "^2.0.4",
+    "webpack-remove-serviceworker-plugin": "^1.0.0",
+    "xss": "^1.0.15",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
